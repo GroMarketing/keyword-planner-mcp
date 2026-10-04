@@ -1,0 +1,8 @@
+{
+  "name": "keyword-planner",
+  "description": "Google Ads Keyword Planner for AI agents and the terminal: search volume, 12-month history, trend, seasonality, competition and bids. Read-only.",
+  "version": "0.1.0",
+  "author": { "name": "Ro Maldonado" },
+  "license": "MIT",
+  "keywords": ["keyword research", "seo", "google ads", "search volume", "mcp"]
+}

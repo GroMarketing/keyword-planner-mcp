@@ -1,0 +1,55 @@
+{
+  "name": "keyword-planner-mcp",
+  "version": "0.1.0",
+  "description": "Google Ads Keyword Planner as an MCP server and CLI: search volume, 12-month history, trend, seasonality, competition and bids for AI agents and the terminal. Read-only.",
+  "type": "module",
+  "bin": {
+    "keyword-planner": "bin/keyword-planner.mjs",
+    "keyword-planner-mcp": "bin/keyword-planner.mjs"
+  },
+  "exports": {
+    ".": "./src/index.mjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "skills",
+    ".claude-plugin",
+    ".mcp.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "keywords": [
+    "keyword planner",
+    "google ads",
+    "keyword research",
+    "search volume",
+    "seo",
+    "mcp",
+    "mcp-server",
+    "claude-code",
+    "keywords",
+    "sem",
+    "ppc"
+  ],
+  "license": "MIT",
+  "author": "Ro Maldonado",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroMarketing/keyword-planner-mcp.git"
+  },
+  "homepage": "https://github.com/GroMarketing/keyword-planner-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/GroMarketing/keyword-planner-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.0",
+    "zod": "^4.6.5"
+  }
+}

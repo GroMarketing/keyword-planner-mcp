@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials*.json
+token*.json
+ledger.json
+.DS_Store

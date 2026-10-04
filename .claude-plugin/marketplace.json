@@ -1,0 +1,5 @@
+{
+  "name": "keyword-planner-mcp",
+  "owner": { "name": "Ro Maldonado" },
+  "plugins": [{ "name": "keyword-planner", "source": "./", "description": "Google Ads Keyword Planner for AI agents and the terminal: search volume, 12-month history, trend, seasonality, competition and bids. Read-only." }]
+}
