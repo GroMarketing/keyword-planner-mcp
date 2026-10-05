@@ -1,6 +1,7 @@
 # keyword-planner-mcp
 
-Google Ads Keyword Planner for AI agents and the terminal. Ask how many people
+Google Keyword Planner for AI agents and the terminal: a free, open-source keyword
+research tool built on Google's own data. Ask how many people
 search for something, whether that demand is growing, when it peaks, and what
 advertisers pay for it, and get the answer from Google's own numbers.
 

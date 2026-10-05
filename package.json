@@ -1,7 +1,7 @@
 {
   "name": "keyword-planner-mcp",
-  "version": "0.1.0",
-  "description": "Google Ads Keyword Planner as an MCP server and CLI: search volume, 12-month history, trend, seasonality, competition and bids for AI agents and the terminal. Read-only.",
+  "version": "0.1.1",
+  "description": "Google Keyword Planner MCP server and CLI: a free keyword research tool for AI agents and the terminal. Keyword search volume, 24-month history, year-over-year trend, seasonality, competition and bids. Read-only.",
   "type": "module",
   "bin": {
     "keyword-planner": "bin/keyword-planner.mjs",
@@ -36,7 +36,13 @@
     "claude-code",
     "keywords",
     "sem",
-    "ppc"
+    "ppc",
+    "google keyword planner",
+    "keyword research tool",
+    "free keyword research tool",
+    "keyword search volume",
+    "seo mcp",
+    "keyword research mcp"
   ],
   "license": "MIT",
   "author": "Ro Maldonado",
