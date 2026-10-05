@@ -1,5 +1,7 @@
 # keyword-planner-mcp
 
+<p align="center"><img src="https://raw.githubusercontent.com/GroMarketing/keyword-planner-mcp/main/.github/social-preview.png" alt="keyword-planner-mcp: Google Keyword Planner MCP server and CLI" width="100%"></p>
+
 Google Keyword Planner for AI agents and the terminal: a free, open-source keyword
 research tool built on Google's own data. Ask how many people
 search for something, whether that demand is growing, when it peaks, and what
